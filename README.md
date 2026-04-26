@@ -3,7 +3,7 @@ repository for mcp with claude code
 
 ## structure
 
-## install cluade code
+## install claude code
 
 ```bash
 curl -fsSL https://claude.ai/install.sh | bash
