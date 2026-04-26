@@ -14,4 +14,6 @@ curl -fsSL https://claude.ai/install.sh | bash
 /help : Check usage and help
 /clear(reset): Clear chat history
 /compact(instructions): Conversation compression (including selective focus guidelines)
+/export : Export conversation to clipboard or file
+/resume: Continue the conversation in a specific session
 ```
