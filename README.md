@@ -16,4 +16,6 @@ curl -fsSL https://claude.ai/install.sh | bash
 /compact(instructions): Conversation compression (including selective focus guidelines)
 /export : Export conversation to clipboard or file
 /resume: Continue the conversation in a specific session
+/bug : report bug to Claude
+/exit : terminate current session
 ```
