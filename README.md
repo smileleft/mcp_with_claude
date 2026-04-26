@@ -29,6 +29,14 @@ curl -fsSL https://claude.ai/install.sh | bash
 /logout: logout from anthropic
 ```
 
+## status check
+
+```plain text
+/status : Check current status and system information
+/cost : Token Usage and Cost Statistics
+/doctor : Checking Claude Code Installation Status and Health
+```
+
 ## memory and permission
 
 ```plain text
