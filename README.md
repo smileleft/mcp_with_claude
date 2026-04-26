@@ -10,6 +10,7 @@ curl -fsSL https://claude.ai/install.sh | bash
 ```
 
 ## basic command
+
 ```plain text
 /help : Check usage and help
 /clear(reset): Clear chat history
@@ -18,4 +19,12 @@ curl -fsSL https://claude.ai/install.sh | bash
 /resume: Continue the conversation in a specific session
 /bug : report bug to Claude
 /exit : terminate current session
+```
+
+## configure model and account
+
+```plain text
+/model : select model or change model
+/login: new login
+/logout: logout from anthropic
 ```
