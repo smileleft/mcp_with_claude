@@ -28,3 +28,11 @@ curl -fsSL https://claude.ai/install.sh | bash
 /login: new login
 /logout: logout from anthropic
 ```
+
+## memory and permission
+
+```plain text
+/init : projet init for claude
+/memory : Editing the memory file of CLAUDE.md
+/permissions(allowed-tools) : Determining whether to allow tools to access files 
+```
